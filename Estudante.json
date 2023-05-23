@@ -1,0 +1,12 @@
+{
+  "Estudantes": [
+    {
+      "id": 1,
+      "name": "Gabriel Neves Ferraz",
+      "idade": 33,
+      "telefone": 1112345678,
+      "email": "gabrielneves@gmail.com",
+      "cpf": 12345678900
+    }
+  ]
+}
